@@ -1,0 +1,19 @@
+# Mac OS
+.DS_Store
+# Environment Variables
+.env
+# Yarn
+node_modules
+yarn-error.log
+yarn-debug.log
+
+# Build files
+dist
+
+# api-extractor temp files
+temp
+
+# Alchemy keys and tokens
+alchemy.env
+
+.npmrc
