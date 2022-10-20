@@ -9,5 +9,8 @@
   "keywords": [],
   "type": "module",
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "alchemy-sdk": "^2.1.1"
+  }
 }
